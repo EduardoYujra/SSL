@@ -4,5 +4,5 @@ Eduardo Yujra
 */
 #include<stdio.h>
 int main(void){
-	printf("Hello, World version 2!\n");
+	printf("Hello, World!\n");
 }
